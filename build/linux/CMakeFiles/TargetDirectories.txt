@@ -1,0 +1,4 @@
+/home/android1/Desktop/MAIN_DEV/YB_Dev/reaper-minimal-plugin/build/linux/CMakeFiles/reaper_minimal_plugin.dir
+/home/android1/Desktop/MAIN_DEV/YB_Dev/reaper-minimal-plugin/build/linux/CMakeFiles/copy_target.dir
+/home/android1/Desktop/MAIN_DEV/YB_Dev/reaper-minimal-plugin/build/linux/CMakeFiles/edit_cache.dir
+/home/android1/Desktop/MAIN_DEV/YB_Dev/reaper-minimal-plugin/build/linux/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,reaper_minimal_plugin.so -o reaper_minimal_plugin.so CMakeFiles/reaper_minimal_plugin.dir/src/main.cpp.o "CMakeFiles/reaper_minimal_plugin.dir/lib/WDL/WDL/swell/swell-modstub-generic.cpp.o"  -laubio 
