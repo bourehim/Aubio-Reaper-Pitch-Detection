@@ -1,15 +1,5 @@
-# reaper-minimal-plugin
+# Aubio Reaper Pitch Detection
 
-Minimal REAPER plugin which uses Win32 API. On Linux and OS X it uses REAPER's provided SWELL to emulate parts of the
-Win32 API.
-
-**Not yet tested on OS X!**
-
-## Develop
-
-### Build
-
-#### Linux
 
 Create debug build:
 ```sh
@@ -17,9 +7,6 @@ mkdir -p build/linux
 cd build/linux
 cmake -DCMAKE_BUILD_TYPE=Debug ../..
 cmake --build .
-
-cmake --build . && /home/android1/Music/_REA_2/REAPER/reaper
-
 ```
 
 
